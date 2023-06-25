@@ -1,0 +1,28 @@
+# Android Gradle Project
+*.iml
+.gradle/
+/local.properties
+/.idea/caches/
+/.idea/libraries/
+/.idea/modules.xml
+/.idea/workspace.xml
+/.idea/navEditor.xml
+/.idea/assetWizardSettings.xml
+/.idea/dictionaries/
+
+# Build files
+/build/
+/captures/
+/out/
+/.gradle/
+
+# IDE-specific files
+*.idea/
+*.iml
+*.ipr
+*.iws
+
+# Spring Boot Project
+/target/
+/.mvn/
+*.jar
