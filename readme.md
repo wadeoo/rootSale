@@ -1,0 +1,14 @@
+界面拼图:
+![合成界面](./img/rootsale.png)
+登录拼图:
+![登录界面](./img/login.png)
+注册拼图:
+![注册界面](./img/register.png)
+商品浏览拼图:
+![商品浏览界面](./img/menu.png)
+商品详情拼图:
+![商品详情界面](./img/detail.png)
+购物车拼图:
+![购物车界面](./img/cart.png)
+个人档案拼图:
+![个人档案界面](./img/profile.png)
